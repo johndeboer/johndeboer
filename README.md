@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **vue and firebase**
 
-- 👨‍💻 All of my projects are available at [johndb.com](https://johndb.com)
+<!-- - 👨‍💻 All of my projects are available at [johndb.com](https://johndb.com)
 
-- 📝 I regularly write articles on [https://medium.com/@systemphase](https://medium.com/@systemphase)
+- 📝 I regularly write articles on [https://medium.com/@systemphase](https://medium.com/@systemphase) -->
 
 - 📫 How to reach me **johndb@gmail.com**
 
