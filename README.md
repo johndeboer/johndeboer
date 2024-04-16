@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A software maker from Michigan</h3>
+<h3 align="center">A data & analytics leader from Michigan</h3>
 
-- 🔭 I’m currently working on **a personal finance tracker**
+- 🔭 I’m currently working on **Data Ops with Snowflake and DBT**
 
 - 🌱 I’m currently learning **vue and firebase**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@systemphase](https://medium.com/@systemphase) -->
 
-- 📫 How to reach me **johndb@gmail.com**
+- 📫 How to reach me **https://www.system-phase.com**
 
 - ⚡ Fun fact **I play Ice Hockey in my free time**
 
