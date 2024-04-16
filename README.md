@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.system-phase.com**
 
-- ⚡ Fun fact **I play Ice Hockey in my free time**
+- ⚡ Fun fact - **I play Ice Hockey in my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
